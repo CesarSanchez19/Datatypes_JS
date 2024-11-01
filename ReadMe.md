@@ -1,6 +1,6 @@
 # Operaciones Matemáticas y Manejo de Cadenas en JavaScript.
 
-## Descripción del Proyecto: Operaciones Matemáticas y Manejo de Cadenas en JavaScript
+## Descripción del Proyecto:
 
 ### Objetivo
 El objetivo de este proyecto es demostrar el uso de funciones matemáticas y el manejo de cadenas de texto en JavaScript. A través de este código, se pueden realizar diversas operaciones matemáticas, como cálculos de redondeo, generación de números aleatorios y operaciones trigonométricas, así como la manipulación de cadenas para formar un nombre completo.
